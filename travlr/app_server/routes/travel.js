@@ -4,4 +4,8 @@ const controller = require('../controllers/travel');
 
 router.get('/', controller.travel);
 
+/*router.get('/', function (req, res, next) {
+    res.render('travel', {trips: })
+});*/
+
 module.exports = router;
