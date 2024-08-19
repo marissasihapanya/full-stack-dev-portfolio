@@ -24,4 +24,5 @@ Methods are custom defined functions that send data to API endpoints through req
 ## Reflection
 <p></p>
 <b>How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?</b>
+<p></p>
 This course has strengthened my grip on the complete process of full-stack development for a web application. I've learned code refactoring, application file structuring, and more advanced JavaScript for clean data travel across an entire application. The frontend and the backend of an application and how they work together are now more clear to me. It is really nice to see how all the pieces work together, and continuously re-running the code to see and test updates to the application really drove in the whole process for me. I am more confident in my ability to build a full-stack web application, and will be building some of my own for my portfolio, making me a more marketable candidate in the software engineering field.
